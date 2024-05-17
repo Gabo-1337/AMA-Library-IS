@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AMA-CC Biñan Campus Library Inventory System", "AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System.vbproj", "{3E1417F5-EC9E-4391-AD03-984091095233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1417F5-EC9E-4391-AD03-984091095233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1417F5-EC9E-4391-AD03-984091095233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1417F5-EC9E-4391-AD03-984091095233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1417F5-EC9E-4391-AD03-984091095233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F6A3A3-0249-4CDD-BC30-8B28C422F2AD}
+	EndGlobalSection
+EndGlobal

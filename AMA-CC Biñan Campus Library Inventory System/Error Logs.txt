@@ -1,0 +1,19 @@
+ERROR NOTES:
+BUG#1: Message that says "admin is busy" does not show when another user tries to request a borrow while another one is present (12/17/2019)
+FIX: Fixed by fixing 2nd bug. (01/18/2020)
+
+BUG#2: BRespond table has contents but does not cleanup even when checked by login (12/17/2019)
+FIX: Removed automatic receiver. Instead, make admin press button for incoming requests. Button will only be allowed if BRespond/BRequest table contents are empty. (01/18/2020)
+FIX: Re-added automatic receiver, also added automatic garbage cleanup in BRespond & BRequest tables. (01/18/2020)
+
+BUG#3: Do not allow to backspace in Days (12/17/2019) 
+FIX: Allowed backspace but by default, value will be 1 but text will still be "" (12/25/2019)
+
+BUG#4: NumberList was shown when BookInv was opened in Search Mode (12/17/2019)
+FIXED (01/09/2020)
+
+BUG#5: Allow users to not write in txtMN.text (12/17/2019)
+FIXED (01/18/2020)
+
+BUG#6: SQL Error "Cannot open anymore tables" can refer to as memory leakage of the database, find solutions for refreshing memory (01/18/2020)
+FIX: Close reader for each time it reads the table. (01/18/2020)

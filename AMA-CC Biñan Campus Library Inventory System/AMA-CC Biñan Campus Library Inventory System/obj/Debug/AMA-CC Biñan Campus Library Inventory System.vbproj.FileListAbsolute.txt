@@ -1,0 +1,48 @@
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.exe.config
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.exe
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.pdb
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.xml
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.vbprojAssemblyReference.cache
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.MainAdmin.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.LoginInv.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.Resources.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.vbproj.GenerateResource.cache
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.exe
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.xml
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.pdb
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.UpdateInv.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.UpdateUser.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.MainBorrower.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.BookInv.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.ViewUser.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.ViewOwnAccount.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.HistoryForm.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.WaitBRequest.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.BNotif.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.BReceive.resources
+C:\Users\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.NotifDueDate.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.exe.config
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.exe
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.pdb
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\bin\Debug\AMA-CC Biñan Campus Library Inventory System.xml
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.vbproj.AssemblyReference.cache
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.vbproj.SuggestedBindingRedirects.cache
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.BNotif.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.BookInv.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.BReceive.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.HistoryForm.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.MainAdmin.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.LoginInv.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.MainBorrower.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.Resources.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.NotifDueDate.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.UpdateInv.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.UpdateUser.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.ViewOwnAccount.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.ViewUser.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA_CC_Biñan_Campus_Library_Inventory_System.WaitBRequest.resources
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.vbproj.GenerateResource.cache
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.vbproj.CoreCompileInputs.cache
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.exe
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.xml
+D:\Gabriel\School Stuff\PROG\AMA-CC Biñan Campus Library Inventory System\AMA-CC Biñan Campus Library Inventory System\obj\Debug\AMA-CC Biñan Campus Library Inventory System.pdb
